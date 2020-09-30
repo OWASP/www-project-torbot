@@ -1,17 +1,14 @@
 ### TorBot Information
-* [Incubator Project](#)
-* [Type of Project](#)
-* [Version 0.0.0](#)
-* [Builder](#)
-* [Breaker](#)
+* [Lab Project](https://github.com/DedSecInside/TorBot)
+* [Version 1.4.0](https://github.com/DedSecInside/TorBot)
+* [Requirements](https://github.com/DedSecInside/TorBot/blob/dev/requirements.txt)
 
 ### Downloads or Social Links
-* [Download](#)
-* [Meetup](#)
+* [Download](https://github.com/DedSecInside/TorBot)
 
 ### Code Repository
-* [repo](#)
+* [repo](https://github.com/DedSecInside/TorBot)
 
 ### Change Log
-* [changes](#)
+* [changes](https://github.com/DedSecInside/TorBot/blob/dev/CHANGELOG.md)
 
